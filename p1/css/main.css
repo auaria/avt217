@@ -1,0 +1,33 @@
+body {
+  background-color: beige;
+}
+h1 {
+  color: darkRed;
+  font-family: "Brushland Regular", "Brush Script MT", cursive;
+  text-align: center;
+}
+h3 {
+  color: darkRed;
+  font-family: "Brushland Regular", "Brush Script MT", cursive;
+  text-align: center;
+}
+p {
+  color: darkRed;
+  font-family: "Brushland Regular", "Brush Script MT", cursive;
+  text-align: center;
+}
+a:link {
+  color: snow;
+  font-family: "Brushland Regular", "Brush Script MT", cursive;
+  text-decoration: none;
+}
+a:visited {
+  color: snow;
+  font-family: "Brushland Regular", "Brush Script MT", cursive;
+  text-decoration: underline;
+}
+a:hover {
+  color: darkRed;
+  font-family: "Brushland Regular"s, "Brush Script MT", cursive;
+  text-decoration: underline;
+}
