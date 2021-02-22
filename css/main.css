@@ -1,0 +1,33 @@
+body {
+  background-color: BlanchedAlmond;
+}
+h1 {
+  color: CadetBlue;
+  font-family: "Trebuchet MS", Helvetica, sans-serif
+  text-align: center;
+}
+h3 {
+  color: CadetBlue;
+  font-family: "Trebuchet MS", Helvetica, sans-serif
+  text-align: center;
+}
+p {
+  color: CadetBlue;
+  font-family: "Trebuchet MS", Helvetica, sans-serif
+  text-align: center;
+}
+a:link {
+  color: LightSeaGreen;
+  font-family: "Trebuchet MS", Helvetica, sans-serif
+  text-decoration: none;
+}
+a:visited {
+  color: MediumSeaGreen;
+  font-family: "Trebuchet MS", Helvetica, sans-serif
+  text-decoration: none;
+}
+a:hover {
+  color: MediumSeaGreen;
+  font-family: "Trebuchet MS", Helvetica, sans-serif
+  text-decoration: underline;
+}
