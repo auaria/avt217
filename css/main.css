@@ -1,33 +1,27 @@
 body {
   background-color: BlanchedAlmond;
 }
-h1 {
+h1, h3 {
   color: CadetBlue;
-  font-family: "Trebuchet MS", Helvetica, sans-serif
-  text-align: center;
-}
-h3 {
-  color: CadetBlue;
-  font-family: "Trebuchet MS", Helvetica, sans-serif
-  text-align: center;
+  font-family: 'Lora', serif;
 }
 p {
   color: CadetBlue;
-  font-family: "Trebuchet MS", Helvetica, sans-serif
-  text-align: center;
+  font-family: 'Montserrat', sans-serif;
 }
 a:link {
   color: LightSeaGreen;
-  font-family: "Trebuchet MS", Helvetica, sans-serif
+  font-family: 'Montserrat', sans-serif;
   text-decoration: none;
 }
 a:visited {
   color: MediumSeaGreen;
-  font-family: "Trebuchet MS", Helvetica, sans-serif
+  font-family: 'Montserrat', sans-serif;
   text-decoration: none;
 }
 a:hover {
-  color: MediumSeaGreen;
-  font-family: "Trebuchet MS", Helvetica, sans-serif
-  text-decoration: underline;
+  color: MediumTurquoise;
+  font-family: 'Montserrat', sans-serif;
+  font-style: italic;
+  text-decoration: none;
 }

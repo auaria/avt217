@@ -1,0 +1,54 @@
+body {
+  color: DarkGrey;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: SaddleBrown;
+  font-family: "Playfair Display", Georgia, serif;
+}
+p, ul li {
+  color: Peru;
+  font-family: 'Raleway', sans-serif;
+}
+/* WHY IS THIS SO LONG, OMG */
+#btw {
+  font-style: oblique;
+  font-weight: bold;
+}
+.size {
+  font-size: 200%;
+}
+.weight {
+  font-weight: 900;
+}
+.form {
+  font-style: italic;
+}
+.structure {
+  font-family: 'Anton', sans-serif;
+}
+.texture {
+  text-transform: uppercase;
+  letter-spacing: -2px;
+}
+.color {
+  color: OliveDrab;
+}
+.direction {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+.other {
+  line-height: 2;
+  letter-spacing: 5px;
+}
+/* Now I gotta do the links because I'm pICKY*/
+a:link {
+  color: Olive;
+}
+a:visited {
+  color: Olive;
+}
+a:hover {
+  color: OliveDrab;
+  font-style: italic;
+}
