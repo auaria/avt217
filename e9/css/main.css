@@ -38,3 +38,68 @@ main{
   float: left;
   border-radius: 50%;
 }
+#p2 .shape1 {
+  width: 0;
+  height: 0;
+  margin:-10px;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid red;
+  float: left;
+}
+#p2 .shape2 {
+  width: 150px;
+  height: 150px;
+  background-color: yellow;
+  border: 10px solid black;
+  margin:-20px;
+  opacity: .75;
+  float: left;
+  border-radius: 50%;
+}
+#p2 .shape3 {
+  width: 100px;
+  height: 100px;
+  border: 10px solid black;
+  margin:-20px;
+  opacity: .50;
+  float: left;
+}
+#p2 .shape4 {
+  width: 100px;
+  height: 100px;
+  border: 10px solid black;
+  margin:-20px;
+  opacity: .50;
+  float: left;
+  transform: rotate(45deg);
+}
+#p3 .shape1 {
+  width: 300px;
+  height: 300px;
+  background-color: white;
+  border: 10px solid black;
+  margin:-50px;
+  opacity: .50;
+  float: left;
+}
+#p3 .shape2 {
+  width: 100px;
+  height: 100px;
+  margin:-10px;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid black;
+  transform: rotate(45deg);
+  float: left;
+}
+#p3 .shape3 {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  border: 10px solid black;
+  margin:-10px;
+  opacity: .75;
+  float: left;
+  border-radius: 50%;
+}
