@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  overflow-x: hidden;
+}
+main{
+  width: 132vw;
+  margin: -50px, -15vw;
+}
+#p1 .shape1 {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  border: 10px solid magenta;
+  margin:-20px;
+  opacity: .75;
+  float: left;
+}
+#p1 .shape2 {
+  width: 100px;
+  height: 100px;
+  background-color: cyan;
+  border: 10px solid orange;
+  margin:-20px;
+  opacity: .75;
+  float: left;
+  transform: rotate(45deg);
+}
+#p1 .shape3 {
+  width: 150px;
+  height: 150px;
+  background-color: pink;
+  border: 10px solid green;
+  margin:-20px;
+  opacity: .75;
+  float: left;
+  border-radius: 50%;
+}
