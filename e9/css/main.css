@@ -103,3 +103,82 @@ main{
   float: left;
   border-radius: 50%;
 }
+#p4 .shape1 {
+  width: 0;
+  height: 0;
+  margin:-20px;
+  opacity: .75;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid red;
+  float: left;
+}
+#p4 .shape2 {
+  width: 0;
+  height: 0;
+  margin:-20px;
+  opacity: .75;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-top: 100px solid orange;
+  float: left;
+}
+#p4 .shape3 {
+  width: 0;
+  height: 0;
+  margin:-20px;
+  opacity: .75;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid yellow;
+  float: left;
+}
+#p4 .shape4 {
+  width: 0;
+  height: 0;
+  margin:-20px;
+  opacity: .75;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-top: 100px solid green;
+  float: left;
+}
+#p4 .shape5 {
+  width: 0;
+  height: 0;
+  margin:-20px;
+  opacity: .75;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid blue;
+  float: left;
+}
+#p4 .shape6 {
+  width: 0;
+  height: 0;
+  margin:-20px;
+  opacity: .75;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-top: 100px solid purple;
+  float: left;
+}
+#p5 .shape1 {
+  width: 150px;
+  height: 150px;
+  background-color: white;
+  border: 10px solid black;
+  margin:-20px;
+  opacity: .75;
+  float: left;
+  border-radius: 50%;
+}
+#p5 .shape2 {
+  width: 500px;
+  height: 500px;
+  background-color: white;
+  border: 10px solid black;
+  margin:-20px;
+  opacity: .75;
+  float: left;
+}
