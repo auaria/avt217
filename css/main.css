@@ -1,5 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  font-size: 16px;
+}
 body {
   background-color: BlanchedAlmond;
+}
+header {
+  width:75vw;
+  margin: 25px auto;
+}
+main {
+  width: 75vw;
+  margin: 25px auto;
+  display: flow-root;
+}
+.col {
+  width: 50%;
+  float: left;
 }
 h1, h3 {
   color: CadetBlue;
@@ -24,4 +43,16 @@ a:hover {
   font-family: 'Montserrat', sans-serif;
   font-style: italic;
   text-decoration: none;
+}
+@media screen and (max-width: 900px) {
+  .col {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+  header {
+    width: 90vw;
+  }
+  main {
+    width: 90vw;
+  }
 }
