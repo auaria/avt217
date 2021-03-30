@@ -1,0 +1,104 @@
+.board {
+  width:40vw;
+  display: flow-root;
+  margin: 3vw;
+}
+.black{
+  width: 5vw;
+  height: 5vw;
+  background-color: black;
+  float:left;
+}
+.red {
+  width: 5vw;
+  height: 5vw;
+  background-color: tomato;
+  float:left;
+}
+.colGrid {
+  width: 84vw;
+  display: flow-root;
+  margin: 3vw;
+}
+.longCol {
+  width: 82vw;
+  height: 10vw;
+  background-color: black;
+  float: left;
+  margin: 1vw;
+}
+.thinCol {
+  width: 82vw;
+  height: 5vw;
+  background-color: grey;
+  float: left;
+  margin: 1vw;
+}
+.threeCol {
+  width: 26vw;
+  height: 80vw;
+  background-color: darkcyan;
+  float: left;
+  margin: 1vw;
+}
+.blogPost {
+  width: 85vw;
+  height: 50vw;
+  display: flow-root;
+  margin: 3vw;
+}
+.blogMain {
+  width: 60vw;
+  height: 40vw;
+  margin: 1vw;
+  background-color: darkkhaki;
+  float: left;
+}
+.blogFoot {
+  width: 60vw;
+  height: 5vw;
+  margin: 1vw;
+  background-color: darkred;
+  float: left;
+}
+.blogSide {
+  width: 20vw;
+  height: 25vw;
+  margin: 1vw;
+  background-color: saddlebrown;
+  float: right;
+}
+.tennisCourt {
+  width: 82vw;
+  height: 45vw;
+  display: flow-root;
+}
+.longSide {
+  width: 9vw;
+  height: 42vw;
+  margin: 1vw;
+  background-color: darkslategrey;
+  float: left;
+}
+.wideCentre {
+  width: 58vw;
+  height: 12vw;
+  margin: 1vw;
+  background-color: darkslategrey;
+  float: left;
+}
+.tennisBox {
+  width: 28vw;
+  height: 28vw;
+  background-color: darkslategrey;
+  margin: 1vw;
+  float: left;
+}
+#blogHead {
+  width: 84vw;
+  margin:3vw;
+  background-color: darkolivegreen;
+}
+#rightSide {
+  float: right;
+}
