@@ -1,0 +1,74 @@
+main {
+  display: flow-root;
+}
+.tube {
+  width: 12px;
+  height: 150px;
+  background-color: grey;
+  position: fixed;
+  bottom: 10px;
+  left: 500px;
+  z-index: -10
+
+}
+.inkTube {
+  width: 12px;
+  height: 284px;
+  background-color: black;
+  position: fixed;
+  bottom: 150px;
+  left: 500px;
+}
+.penCap {
+  width: 18px;
+  height: 182px;
+  background-color: cornflowerblue;
+  opacity: 70%;
+  position: relative;
+  top: 100px;
+  left: 489px;
+  z-index: 10;
+}
+.penCapSide {
+  width: 8px;
+  height: 182px;
+  background-color: cornflowerblue;
+  opacity: 70%;
+  position: relative;
+  top: 20px;
+  left: 481px;
+  z-index: 10;
+}
+.penTip {
+  width: 0;
+  height: 0;
+  border-left: 3px solid transparent;
+  border-right: 3px solid transparent;
+  border-bottom: 10px solid darkgoldenrod;
+  position: fixed;
+  bottom: 438px;
+  left: 503px;
+}
+.penTipBase {
+  border-bottom: 4px solid darkgoldenrod;
+  border-left: 3px solid transparent;
+  border-right: 3px solid transparent;
+  height: 0;
+  width: 10px;
+  position: fixed;
+  bottom: 434px;
+  left: 498px;
+}
+.penHold {
+  width: 16px;
+  height: 440px;
+  background-color: cornflowerblue;
+  opacity: 70%;
+  position: fixed;
+  bottom: -5px;
+  left: 498px;
+}
+.whiteBox {
+  width: 1vw;
+  height: 100vw;
+}
